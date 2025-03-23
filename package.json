@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "cicd-build": "next build && bun run ./scripts/generate_dist.mjs" 
   },
   "dependencies": {
     "@radix-ui/react-scroll-area": "^1.2.3",
