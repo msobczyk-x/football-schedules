@@ -1,0 +1,142 @@
+{
+    "PAGES": {
+      "MATCH": {
+        "BACK_BUTTON": "Powrót do meczów",
+        "UPCOMING": {
+            "OVERVIEW": "Podusmowanie",
+            "LINEUPS": "Skład",
+            "TABLE": "Tabela"
+          }
+      }
+    },
+    "COMPONENTS": {
+      "LOCALE_SWITCHER": {
+        "LABEL": "Język",
+        "OPTIONS": {
+          "EN": "angielski",
+          "PL": "Polski"
+        }
+      },
+      "LIST_HEADER": {
+        "YESTERDAY": "Wczoraj",
+        "TODAY": "Dzisiaj",
+        "TOMORROW": "Jutro",
+        "PREVIOUS": "Poprzedni",
+        "NEXT": "Następny"
+      },
+      "SCHEDULE_LIST_ITEM": {
+        "STATUS": {
+          "COMPLETED": "Zakończony",
+          "UPCOMING": "Nadchodzące",
+          "LIVE": "Na żywo"
+        }
+      },
+      "LOADING_INDICATOR": {
+        "LOADING": "Ładowanie szczegółów meczu ..."
+      },
+      "LEAGUE_TABLE": {
+        "NO_DATA": "Tabela ligowa niedostępna",
+        "NO_DATA_DESC": "Nie mogliśmy pobrać aktualnych klasyfikacji ligowej. ",
+        "NO_STANDINGS": "Brak dostępnych klasyfikacji",
+        "UPDATED": "Zaktualizowano: {date}",
+        "TEAM": "Zespół",
+        "FORM": "Ostatnie wyniki",
+        "PTS": "Pkt",
+        "MP": "MR",
+        "W": "W",
+        "D": "R",
+        "L": "P",
+        "GF": "BZ",
+        "GA": "BS",
+        "GD": "RB",
+        "PROMOTION": "Promocja",
+        "RELEGATION": "Relegacja"
+      },
+      "MATCH_DETAILS_ERROR": {
+        "BACK_BUTTON": "Powrót do meczów",
+        "MATCH_NOT_FOUND": "Mecz nie został znaleziony",
+        "RETURN_TO_MATCHES": "Wróć do meczów"
+      },
+      "MATCH_HEADER": {
+        "HOME_TEAM": "Gospodarze",
+        "AWAY_TEAM": "Goście",
+        "VENUE_NOT_SPECIFIED": "Miejsce nieokreślone"
+      },
+      "MATCH_INFO": {
+        "MATCH_INFO": "Informacje o meczu",
+        "REFEREE": "Sędzia:",
+        "NOT_SPECIFIED": "Nieokreślono",
+        "STADIUM": "Stadion:",
+        "DATE": "Data:",
+        "ATTENDANCE": "Frekwencja:",
+        "COMPETITION": "Liga:",
+        "SEASON": "Sezon:",
+        "LOCATION": "Lokalizacja:"
+      },
+      "MATCH_LINEUPS": {
+        "LINEUPS_NOT_CONFIRMED": "Składy niepotwierdzone",
+        "LINEUPS_NOT_CONFIRMED_DESC": "Składy zespołowe będą dostępne bliżej czasu rozpoczęcia meczu. ",
+        "TEAM_LINEUPS": "Składy zespołowe",
+        "STARTING_XI": "Główny skład",
+        "SUBSTITUTES": "Zmiennicy"
+      },
+      "MATCH_OVERVIEW": {
+        "MATCH_INFORMATION": "Dopasowanie informacji",
+        "DATE_TIME": "Data i godzina",
+        "CONFIRMED": "Potwierdzony:",
+        "YES": "Tak",
+        "NO": "Nie",
+        "STADIUM": "Stadion:",
+        "NOT_SPECIFIED": "Nieokreślono",
+        "NOT_ASSIGNED": "Nieokreślono",
+        "LOCATION": "Lokalizacja:",
+        "CAPACITY": "Pojemność:",
+        "REFEREE": "Sędzia:",
+        "COMPETITION": "Liga:",
+        "SEASON": "Sezon:",
+        "BROADCAST_INFORMATION": "Informacje o transmisji",
+        "GLOBAL": "Światowa",
+        "WHEATHER_FORECAST": "Prognoza pogody",
+        "CONDITIONS": "Warunki:",
+        "PITCH": "Poziom:",
+        "WHEATHER": {
+            "GOOD": "Dobra",
+            "MEDIUM": "Średnia",
+            "BAD": "Zła",
+            "INDOOR": "Wewnątrz",
+            "EXTREME": "Ekstremalna"
+        }
+      },
+      "MATCH_STATISTICS": {
+        "MATCH_STATISTICS": "Dopasuj statystyki",
+        "NO_STATISTICS_AVAILABLE": "Szczegółowe statystyki nie są dostępne dla tego meczu.",
+        "POSSESSION": "Posiadanie",
+        "SHOTS_TOTAL": "Strzały ogółem",
+        "SHOTS_ON_TARGET": "Celne strzały",
+        "CORNER_KICKS": "Rzuty rożne",
+        "YELLOW_CARDS": "Żółte karty",
+        "RED_CARDS": "Czerwone karty"
+      },
+      "SCORE_CARD": {
+        "FINAL_SCORE": "Końcowy wynik",
+        "HT": "HT",
+        "HOME_TEAM": "Gospodarze",
+        "AWAY_TEAM": "Goście",
+        "AT": "AT",
+        "HALF_TIME": "Przerwa"
+      },
+      "SCORERS_LIST": {
+        "GOAL_SCORERS": "Strzelcy bramek",
+        "NO_INFO_AVAILABLE": "Brak informacji o celach dostępnych w tym meczu.",
+        "HOME_TEAM": "Gospodarze",
+        "P": "P",
+        "OG": "OG",
+        "NO_GOALS": "Brak goli",
+        "AWAY_TEAM": "Goście"
+      },
+      "SCHEDULE_LIST": {
+        "ERROR": "Wystąpił błąd podczas ładowania harmonogramu. ",
+        "NO_MORE_DATA": "Nie ma już dostępnych meczów"
+      }
+    }
+  }

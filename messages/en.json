@@ -1,0 +1,142 @@
+{
+    "PAGES":{
+        "MATCH": {
+            "BACK_BUTTON": "Back to matches",
+            "UPCOMING": {
+                "OVERVIEW": "Overwies",
+                "LINEUPS": "Lineups",
+                "TABLE": "Table"
+            }
+        }
+    },
+    "COMPONENTS": {
+        "LOCALE_SWITCHER": {
+            "LABEL": "Language",
+            "OPTIONS": {
+                "EN": "English",
+                "PL": "Polish"
+            }
+        },
+        "LIST_HEADER": {
+            "YESTERDAY": "Yesterday",
+            "TODAY": "Today",
+            "TOMORROW": "Tomorrow",
+            "PREVIOUS": "Previous",
+            "NEXT": "Next"
+        },
+        "SCHEDULE_LIST_ITEM": {
+            "STATUS": {
+                "COMPLETED": "Completed",
+                "UPCOMING": "Upcoming",
+                "LIVE": "Live"
+            }
+        },
+        "LOADING_INDICATOR": {
+            "LOADING": "Loading match details ..."
+        },
+        "LEAGUE_TABLE": {
+            "NO_DATA": "League Table Not Available",
+            "NO_DATA_DESC": "We couldn't fetch the current league standings. Please try again later.",
+            "NO_STANDINGS" : "No Standings Available",
+            "UPDATED": "Updated: {date}",
+            "TEAM": "Team",
+            "FORM": "Form",
+            "PTS": "Pts",
+            "MP": "MP",
+            "W": "W",
+            "D": "D",
+            "L": "L",
+            "GF": "GF",
+            "GA": "GA",
+            "GD": "GD",
+            "PROMOTION": "Promotion",
+            "RELEGATION": "Relegation"
+        },
+        "MATCH_DETAILS_ERROR": {
+            "BACK_BUTTON":"Back to matches",
+            "MATCH_NOT_FOUND": "Match not found",
+            "RETURN_TO_MATCHES": "Return to matches"
+        },
+        "MATCH_HEADER": {
+            "HOME_TEAM": "Home Team",
+            "AWAY_TEAM": "Away Team",
+            "VENUE_NOT_SPECIFIED": "Venue not specified"
+        },
+        "MATCH_INFO": {
+            "MATCH_INFO": "Match Information",
+            "REFEREE": "Referee:",
+            "NOT_SPECIFIED": "Not specified",
+            "STADIUM": "Stadium:",
+            "DATE": "Date:",
+            "ATTENDANCE": "Attendance:",
+            "COMPETITION": "Competition:",
+            "SEASON": "Season:",
+            "LOCATION": "Location:"
+        },
+        "MATCH_LINEUPS": {
+            "LINEUPS_NOT_CONFIRMED": "Lineups Not Confirmed",
+            "LINEUPS_NOT_CONFIRMED_DESC": "Team lineups will be available closer to the match start time. Check back later for updates.",
+            "TEAM_LINEUPS": "Team Lineups",
+            "STARTING_XI": "Starting XI",
+            "SUBSTITUTES": "Substitutes"
+        },
+        "MATCH_OVERVIEW": {
+            "MATCH_INFORMATION": "Match Information",
+            "DATE_TIME": "Date & Time",
+            "CONFIRMED": "Confirmed:",
+            "YES": "Yes",
+            "NO": "No",
+            "STADIUM":"Stadium:",
+            "NOT_SPECIFIED": "Not specified",
+            "NOT_ASSIGNED": "Not assigned yet",
+            "LOCATION": "Location:",
+            "CAPACITY": "Capacity:",
+            "REFEREE": "Referee:",
+            "COMPETITION":"Competition:",
+            "SEASON": "Season:",
+            "BROADCAST_INFORMATION": "Broadcast Information",
+            "GLOBAL": "Global",
+            "WHEATHER_FORECAST": "Weather Forecast",
+            "CONDITIONS": "Conditions:",
+            "PITCH": "Pitch:",
+            "WHEATHER": {
+                "GOOD": "Good",
+                "MEDIUM": "Medium",
+                "BAD": "Bad",
+                "INDOOR": "Indoor",
+                "EXTREME": "Extreme"
+            }
+        },
+        "MATCH_STATISTICS": {
+            "MATCH_STATISTICS": "Match Statistics",
+            "NO_STATISTICS_AVAILABLE": "Detailed statistics are not available for this match.",
+            "POSSESSION": "Possession",
+            "SHOTS_TOTAL": "Shots Total",
+            "SHOTS_ON_TARGET": "Shots On Target",
+            "CORNER_KICKS": "Corner Kicks",
+            "YELLOW_CARDS": "Yellow Cards",
+            "RED_CARDS": "Red Cards"
+    },
+    "SCORE_CARD": {
+        "FINAL_SCORE": "Final Score",
+        "HT": "HT",
+        "HOME_TEAM":"Home Team",
+        "AWAY_TEAM":"Away Team",
+        "AT": "AT",
+        "HALF_TIME": "Half Time"
+    },
+    "SCORERS_LIST": {
+        "GOAL_SCORERS": "Goal Scorers",
+        "NO_INFO_AVAILABLE": "No goal information available for this match.",
+        "HOME_TEAM": "Home Team",
+        "P": "P",
+        "OG": "OG",
+        "NO_GOALS": "No goals",
+        "AWAY_TEAM": "Away Team"
+    },
+    "SCHEDULE_LIST": {
+        "ERROR": "An error occurred while loading the schedule. Please try again later.",
+        "NO_MORE_DATA": "No more matches available"
+    }
+}
+}
